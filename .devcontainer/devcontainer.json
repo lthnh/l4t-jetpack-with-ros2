@@ -1,5 +1,5 @@
 {
-    "build": { "dockerfile": "../Dockerfile" },
+    "image": "lthnh/l4t-jetpack-with-ros2:main",
     "customizations": {
         "vscode": {
             "extensions": [
